@@ -1,0 +1,3 @@
+- Hi, I'm Melissa Underwood!
+- I'm computer science student at Kent State University
+- I also work part time as a server at a senior living home
